@@ -8,5 +8,4 @@ This repository contains solutions to various HackerRank challenges, organized b
 
 1. Clone the repository:
   
-   git clone https://github.com/your-username/hackerrank-cpp-solutions.git
-   cd hackerrank-cpp-solutions
+https://github.com/swathiramesh24/Hackerrank_Jan2025_cpp.git
