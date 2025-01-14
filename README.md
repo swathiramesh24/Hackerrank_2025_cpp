@@ -1,8 +1,5 @@
 # Hackerrank C++ Practice Questions
 
-Welcome to the **HackerRank Solutions in C++** repository! 
-This repository contains solutions to various HackerRank challenges, organized by topics and difficulty levels. 
-
 
 ## How to Use
 
